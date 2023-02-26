@@ -1,4 +1,4 @@
-git clone $REPO XYZ
+git clone $https://github.com/Necesiz/Ata-denen-mene
 cd XYZ
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
